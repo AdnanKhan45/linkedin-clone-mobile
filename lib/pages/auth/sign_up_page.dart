@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:linkedin_mobile_ui/pages/auth/sign_in_page.dart';
-import 'package:linkedin_mobile_ui/pages/main/main_page.dart';
+import 'package:linkedin_mobile_ui/pages/main/main_page/main_page.dart';
 import 'package:linkedin_mobile_ui/theme/styles.dart';
 import 'package:linkedin_mobile_ui/widgets/button_container_widget.dart';
 
